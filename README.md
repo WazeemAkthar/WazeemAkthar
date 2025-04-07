@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nairo 👋</h1>
+<h1 align="center">Hey, I'm Wazeem Akthar 👋</h1>
 
 <p align="center">
   🌐 Front-end Developer | 🧠 UI/UX Designer | 🎮 3D Web Experiences
